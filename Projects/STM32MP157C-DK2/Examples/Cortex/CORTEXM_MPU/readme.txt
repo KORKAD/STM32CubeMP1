@@ -2,7 +2,7 @@
   @page CortexM_MPU Cortex-M4 MPU example
 
   @verbatim
-  ******************** (C) COPYRIGHT 2019 STMicroelectronics *******************
+  ******************************************************************************
   * @file    CORTEXM/CORTEXM_MPU/readme.txt 
   * @author  MCD Application Team
   * @brief   Description of the CortexM MPU example.
